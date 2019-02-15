@@ -54,6 +54,7 @@ Não esqueça de nos mandar o dump do banco utilizado.
 
 * As tabelas deverão ter no minimo os seguintes campos:
     * Produtos
+
         | Campo      | Obrigatório |
         |------------|-------------|
         | id         |             |
@@ -63,6 +64,7 @@ Não esqueça de nos mandar o dump do banco utilizado.
         | idCategoria| sim         |
 
     * Categoria
+
         | Campo      | Obrigatório |
         |------------|-------------|
         | id         |             |
