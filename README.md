@@ -23,6 +23,10 @@ Lembrando que os juros são mensais, portanto, deverá ser utilizado a seguinte 
 pv * i / (1 - Math.pow(1 + i, -n))
 ~~~~
 
+- pv = valor do produto
+- i  = porcentagem do juros dividido por 100. (Ex. 10% = 10 / 100 = 0.1)
+- n  = número de parcelas
+
 ### O que esperamos 
 1. Uso de validadores na rota.
 2. Testes unitários.
